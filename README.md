@@ -1,19 +1,20 @@
 # rabbitMQ-AzureCosmos
 Aplicação utilizando a estratégia Remote Procedure Call (RPC) - RabbitMQ
 
-Escolhi a estratégia RPC para implantar o fluxo enviado.
+Escolhi a estratégia RPC para implantar o fluxo enviado. Pattern:
 ![image](https://user-images.githubusercontent.com/33583484/164916923-a6b386c8-1a4e-449b-8d96-da095dee6f6f.png)
-
-Pattern:
 ![image](https://user-images.githubusercontent.com/33583484/164916909-28b9c83b-e6e9-4afa-8334-309dfdd78ce9.png)
 
-O ambiente deve conter dotnetCore 6 e o rabbitMQ executando na porta padrão.
+Pré-requisitos:
+dotnetCore6 runtime e o rabbitMQ executando na porta padrão.
 
-Para iniciar o projeto, basta clonar o repositório e iniciar a aplicações de console com o comando "dotnet run".
+Para iniciar o projeto, basta clonar o repositório e iniciar as aplicações de console com o comando "dotnet run".
 
-Iniciar primeiramente o projeto RPCServer, que ficará ouvindo por solicitações enviadas para filas do RabbitMQ. Ao Executá-lo uma fila chamada "forecast_queue" deverá ser criada, na aplicação de console irá aparecer:
-
+Iniciar primeiramente o projeto RPCServer, que ficará ouvindo as solicitações enviadas para filas do RabbitMQ. Ao Executá-lo uma fila chamada "forecast_queue" deverá ser criada, na aplicação de console irá aparecer:
 ![image](https://user-images.githubusercontent.com/33583484/164917086-d5764e39-b301-435b-a9d4-cf3800f21e13.png)
+![image](https://user-images.githubusercontent.com/33583484/164933706-31be6f69-36d7-4a15-b132-213014a333f1.png)
+
+
 
 
 Agora, é necessário rodar o projeto RPCClient, este projeto irá escutar chamada na interface de api no endereço "http://localhost:8081/api/WeatherForecast". Na tela irá aparecer (Obs.: se tiver outra aplicação executando nesta porta será necessário trocar):
