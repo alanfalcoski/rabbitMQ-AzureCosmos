@@ -1,6 +1,8 @@
 # rabbitMQ-AzureCosmos
 Aplicação utilizando a estratégia Remote Procedure Call (RPC) - RabbitMQ
 
+Utiliza as informações da OpenWeather, buscando de forma síncrona.
+
 Escolhi a estratégia RPC para implantar o fluxo enviado. Pattern:
 ![image](https://user-images.githubusercontent.com/33583484/164916923-a6b386c8-1a4e-449b-8d96-da095dee6f6f.png)
 ![image](https://user-images.githubusercontent.com/33583484/164916909-28b9c83b-e6e9-4afa-8334-309dfdd78ce9.png)
