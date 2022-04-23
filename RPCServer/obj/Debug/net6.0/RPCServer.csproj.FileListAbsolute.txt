@@ -1,0 +1,17 @@
+E:\amcom\MicroServiceClient\RPCClient\RPCServer\obj\Debug\net6.0\RPCServer.csproj.AssemblyReference.cache
+E:\amcom\MicroServiceClient\RPCClient\RPCServer\obj\Debug\net6.0\RPCServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\amcom\MicroServiceClient\RPCClient\RPCServer\obj\Debug\net6.0\RPCServer.AssemblyInfoInputs.cache
+E:\amcom\MicroServiceClient\RPCClient\RPCServer\obj\Debug\net6.0\RPCServer.AssemblyInfo.cs
+E:\amcom\MicroServiceClient\RPCClient\RPCServer\obj\Debug\net6.0\RPCServer.csproj.CoreCompileInputs.cache
+E:\amcom\MicroServiceClient\RPCClient\RPCServer\bin\Debug\net6.0\RPCServer.exe
+E:\amcom\MicroServiceClient\RPCClient\RPCServer\bin\Debug\net6.0\RPCServer.deps.json
+E:\amcom\MicroServiceClient\RPCClient\RPCServer\bin\Debug\net6.0\RPCServer.runtimeconfig.json
+E:\amcom\MicroServiceClient\RPCClient\RPCServer\bin\Debug\net6.0\RPCServer.dll
+E:\amcom\MicroServiceClient\RPCClient\RPCServer\bin\Debug\net6.0\RPCServer.pdb
+E:\amcom\MicroServiceClient\RPCClient\RPCServer\bin\Debug\net6.0\RabbitMQ.Client.dll
+E:\amcom\MicroServiceClient\RPCClient\RPCServer\obj\Debug\net6.0\RPCServer.csproj.CopyComplete
+E:\amcom\MicroServiceClient\RPCClient\RPCServer\obj\Debug\net6.0\RPCServer.dll
+E:\amcom\MicroServiceClient\RPCClient\RPCServer\obj\Debug\net6.0\refint\RPCServer.dll
+E:\amcom\MicroServiceClient\RPCClient\RPCServer\obj\Debug\net6.0\RPCServer.pdb
+E:\amcom\MicroServiceClient\RPCClient\RPCServer\obj\Debug\net6.0\RPCServer.genruntimeconfig.cache
+E:\amcom\MicroServiceClient\RPCClient\RPCServer\obj\Debug\net6.0\ref\RPCServer.dll
