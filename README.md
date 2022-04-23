@@ -35,4 +35,11 @@ Por fim, irá criar o registro no CosmosDB e registrar o id em tela. Bem como os
 
 ![image](https://user-images.githubusercontent.com/33583484/164923524-590791db-679b-49d8-9f98-a47f85477125.png)
 
+RESUMO:
+Abrir a pasta do projeto RPCServer com o prompt, e executar dotnet run;
+Abrir a pasta do projeto RPCClient com o prompt, e executar dotnet run;
+Chamar endpoint no postman, inmsonia ou navegador com o link: http://localhost:8081/api/WeatherForecastCity?City=Curitiba
+Alterar de cidade.
+Os valores serão gravados em banco e mostrados no prompt.
+
 
