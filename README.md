@@ -7,7 +7,7 @@ Escolhi a estratégia RPC para implantar o fluxo enviado.
 Pattern:
 ![image](https://user-images.githubusercontent.com/33583484/164916909-28b9c83b-e6e9-4afa-8334-309dfdd78ce9.png)
 
-O AMBIENTE DEVE CONTER O RABBITMQ EXECUTANDO NA PORTA PADRÃO.
+O ambiente deve conter dotnetCore 6 e o rabbitMQ executando na porta padrão.
 
 Para iniciar o projeto, basta clonar o repositório e iniciar a aplicações de console com o comando "dotnet run".
 
@@ -33,6 +33,6 @@ O servidor recebe a requisição e responde ao Rabbit, que redireciona a respost
 Por fim, irá criar o registro no CosmosDB e registrar o id em tela. Bem como os valores do objeto gravado:
 ![image](https://user-images.githubusercontent.com/33583484/164920988-279ea6f0-3e03-4348-9dd9-5e5968401590.png)
 
-![image](https://user-images.githubusercontent.com/33583484/164921333-0e2af06b-b4a6-443b-9deb-482d8f76f953.png)
+![image](https://user-images.githubusercontent.com/33583484/164923524-590791db-679b-49d8-9f98-a47f85477125.png)
 
 
