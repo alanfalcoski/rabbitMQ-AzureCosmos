@@ -10,8 +10,8 @@ namespace ForecastRepository
     public class Cosmos
     {
         #region "Attributes"        
-        private static readonly string EndpointUri = "https://88f3f4d6-0ee0-4-231-b9ee.documents.azure.com:443/";
-        private static readonly string PrimaryKey = "c8IYReNxcd86TP9EYF4CEdtVHV14hC0L5ddHYG1OTKvpMQUjobG5oMc6Tnxbd8oTrF2aWbCeQMajRbEo4K5okg==";
+        private static readonly string EndpointUri = "";
+        private static readonly string PrimaryKey = "";
         private CosmosClient cosmosClient;        
         public Database database;        
         public Container container;        
